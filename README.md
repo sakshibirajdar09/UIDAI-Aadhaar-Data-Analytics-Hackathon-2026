@@ -321,14 +321,23 @@ pip install -r requirements.txt
 
 05_service_demand_prediction.ipynb
 ```
-### Power BI
-```bash
-Open Power BI Desktop
+## 📊 Power BI Dashboard
 
-Load final_aadhaar_dashboard_data.csv
+An interactive Power BI dashboard was developed to support administrative decision-making.
 
-Refresh visuals
-```
+### 🎯 Dashboard Capabilities
+- State-wise and district-wise filtering
+- Monthly service demand trend analysis
+- Identification of high-risk service zones
+- Comparison of enrolment vs update volumes
+- Service pressure (update-to-enrolment ratio) indicators
+
+### 📁 Files Included
+- `PowerBI Dashboard/UIDAI-PowerBI Dashboard.pbix` → Fully interactive dashboard
+- `PowerBI Dashboard/Dashboard.png` → Preview image of dashboard
+
+The dashboard enables officials to quickly identify infrastructure bottlenecks and plan staffing and resource deployment proactively.
+
 ## 👩‍💻 Author & Contact
 
 **Developed by:** Sakshi Birajdar  
@@ -357,6 +366,7 @@ By transforming raw government datasets into actionable insights, the system sup
 
 If you found this project useful or inspiring, please consider giving it a ⭐ on GitHub.  
 Your support helps motivate continued learning and open-source contributions!
+
 
 
 
