@@ -62,7 +62,7 @@ Together, these components transform raw UIDAI data into **actionable governance
 ---
 
 ## 📂 Project Folder Structure
-
+```
 UIDAI_AADHAAR_DATA_ANALYSIS_HACKATHON/
 
 ├── data/
@@ -98,7 +98,7 @@ UIDAI_AADHAAR_DATA_ANALYSIS_HACKATHON/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+```
 
 ---
 
@@ -326,6 +326,34 @@ Load final_aadhaar_dashboard_data.csv
 
 Refresh visuals
 ```
+## 👩‍💻 Author & Contact
 
-#
+**Developed by:** Sakshi Birajdar  
+📧 **Email:** sakshibirajdar34@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/sakshibirajdar  
+
+---
+
+## 🏁 Summary
+
+This project delivers a complete **data-driven decision support system for Aadhaar service planning**, combining data engineering, analytics, machine learning, and interactive dashboards.
+
+Built using **Python, Jupyter Notebooks, Machine Learning models, and Power BI**, it helps identify **high-demand regions, service load patterns, and future update requirements**, enabling authorities to plan infrastructure and manpower more effectively.
+
+By transforming raw government datasets into actionable insights, the system supports **evidence-based public service optimization** and proactive policy planning.
+
+---
+
+## 🎯 Project Vision
+
+> **“From Data to Decisions — Smarter Planning for Citizen Services.”**
+
+---
+
+## ⭐ Support
+
+If you found this project useful or inspiring, please consider giving it a ⭐ on GitHub.  
+Your support helps motivate continued learning and open-source contributions!
+
+
 
