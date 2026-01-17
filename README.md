@@ -1,4 +1,4 @@
-# 🇮🇳 UIDAI Aadhaar Data Analysis & Service Demand Prediction  
+# UIDAI Aadhaar Data Analysis & Service Demand Prediction  
 ### UIDAI–NIC Data Hackathon 2026 Submission
 
 **Participant:** Sakshi Santosh Birajdar  
@@ -328,3 +328,4 @@ Refresh visuals
 ```
 
 #
+
