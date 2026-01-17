@@ -95,6 +95,9 @@ UIDAI_AADHAAR_DATA_ANALYSIS_HACKATHON/
 │ ├── top_states_enrolment.png
 │ └── top_states_updates.png
 │
+├── PowerBI Dashboard/
+| ├── Dashboard.png
+| └── UIDAI-PowerBI Dashboard.pbix
 ├── requirements.txt
 ├── README.md
 └── .gitignore
@@ -354,6 +357,7 @@ By transforming raw government datasets into actionable insights, the system sup
 
 If you found this project useful or inspiring, please consider giving it a ⭐ on GitHub.  
 Your support helps motivate continued learning and open-source contributions!
+
 
 
 
